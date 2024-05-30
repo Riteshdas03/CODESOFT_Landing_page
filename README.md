@@ -1,1 +1,1 @@
-# CODESOFT_Landing_Page
+# CODSOFT_LANDING_PAGE
